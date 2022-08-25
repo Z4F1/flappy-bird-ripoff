@@ -2,6 +2,8 @@
 
 > Laget av Pelle Pastoor
 
+**NB! Dette var egentlig et skole prosjekt**
+
 **Sjekk ut topp 20 scores som har blitt posta [her.](https://flappy.floatinggoat.no/)**
 
 Github repo's for nettsiden: [Backend](https://github.com/Z4F1/flappy-backend) og [Frontend](https://github.com/Z4F1/flappy-frontend)
